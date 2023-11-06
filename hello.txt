@@ -1,7 +1,6 @@
-hello,git  222222
-333444
-master test
-hot-fix test
-55555555
-hjk
-pixie
+#include<iostream>
+using namespace std;
+int main()
+{
+   cout<<"hello,world"<<endl;
+}
